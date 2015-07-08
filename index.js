@@ -55,5 +55,5 @@ exports.attributes = {
  */
 
 module.exports = function (attr) {
-  return attr in attributes
+  return attr in exports.attributes
 }
