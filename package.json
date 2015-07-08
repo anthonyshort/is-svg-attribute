@@ -1,0 +1,15 @@
+{
+  "name": "is-svg-attribute",
+  "version": "1.0.0",
+  "description": "Check if an attribute name is an SVG attribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "dom"
+  ],
+  "author": "Anthony Short",
+  "license": "ISC"
+}
