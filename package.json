@@ -1,6 +1,6 @@
 {
   "name": "is-svg-attribute",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "repository": "anthonyshort/is-svg-attribute",
   "description": "Check if an attribute name is an SVG attribute",
   "main": "index.js",
